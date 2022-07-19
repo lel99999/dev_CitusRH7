@@ -20,3 +20,13 @@ Deployment and Workspace for CitusDB
       9. Restart sequences <br/>
      10. Register Triggers <br/>
      11. Set Dependencies  <br/>
+
+#### Released Versiona (updates)s
+  - v11.0
+  - v10.2
+  - v10.1
+  - v10.0
+  - v9.5
+  - v9.4
+  - v9.3
+  - v9.2 
